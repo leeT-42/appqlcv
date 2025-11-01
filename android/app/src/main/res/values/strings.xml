@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appqlcv</string>
+    <!-- Replace with your real Facebook App ID and Client Token -->
+    <string name="facebook_app_id">REPLACE_WITH_FACEBOOK_APP_ID</string>
+    <string name="facebook_client_token">REPLACE_WITH_FACEBOOK_CLIENT_TOKEN</string>
+    <string name="fb_login_protocol_scheme">fbREPLACE_WITH_FACEBOOK_APP_ID</string>
+</resources>
+

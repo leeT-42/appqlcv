@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "840114735417",
+    "firebase_url": "https://appqlcv-34619-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appqlcv-34619",
+    "storage_bucket": "appqlcv-34619.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840114735417:android:3a2d9f92b3b764d42100e8",
+        "android_client_info": {
+          "package_name": "com.example.appqlcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcF4sICuZYMhuJFSrX1Fxb2YbOKRjjZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
